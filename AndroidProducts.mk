@@ -7,8 +7,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_davinci.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_davinci-user \
-    omni_davinci-userdebug \
-    omni_davinci-eng
